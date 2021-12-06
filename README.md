@@ -11,4 +11,4 @@ To install openpyxl you can type the following line to your terminal:
 `py -m pip install openpyxl`
 
 Unless you state where you want to put your output file in the code, the default generated excel file can be found in this location:
-C:\Users\{your pc name}\AppData\Local\Temp\PowerFactory.MrfN6dVP
+C:\Users\\{your pc name}\AppData\Local\Temp\PowerFactory.MrfN6dVP
